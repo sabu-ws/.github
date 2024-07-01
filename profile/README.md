@@ -14,10 +14,9 @@ Secure Against Bad USB key
 
 # Project released
 ### 💿 SABU V1 - [All in one software](https://github.com/sabu-ws/allinone)
-
-# Project in development
-### 🚧 SABU V2 (new version) - [server](https://github.com/sabu-ws/server) and [endpoint](https://github.com/sabu-ws/endpoint)
+### 📟 SABU V2 - [server](https://github.com/sabu-ws/server) and [endpoint](https://github.com/sabu-ws/endpoint)
 <!--🖥️
+# Project in development
 **sabu-ws/SABU-WS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
